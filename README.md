@@ -8,7 +8,7 @@
 #### 深度学习库（pytorch）
 #### 大模型库 （transformers）
 #### mysql数据库的使用
-### 训练可视化库（tensorboard）
+#### 训练可视化库（tensorboard）
 
 ## 人工智能算法
 
